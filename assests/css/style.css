@@ -1,0 +1,172 @@
+.container{
+    max-width: 1300px;
+}
+.navbar-expand-lg{
+    padding-left: 0 ;
+    padding-right: 0;
+}
+section {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.vertical-align {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.new h3 {
+    font-weight: 300;
+    font-size: 24px;
+    letter-spacing: -.1px;
+    line-height: 1.5;
+    color: #888;
+    margin: 0 0 10px;
+}
+
+.perfect h1 {
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 1.44;
+    color: #000;
+    margin: 0 0 10px;
+}
+
+.ic h1 {
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 1.44;
+    color: #000;
+    margin: 0 0 10px;
+
+}
+
+.s1 {
+    font-size: 14px;
+    letter-spacing: .15px;
+
+}
+
+.trail h1 {
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 1.44;
+    color: #000;
+    margin: 0 0 10px;
+}
+
+.bg {
+    background: #eee;
+    padding: 50px 40px;
+}
+
+.box span {
+    color: #000;
+    font-size: 11px;
+    padding: 1px 5px;
+    text-align: left;
+    font-weight: 600;
+    border: 1px solid;
+    text-transform: uppercase;
+
+}
+
+.box h5 {
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: -.05px;
+    line-height: 1.5;
+    color: #000;
+    margin: 0;
+}
+
+.jumbo h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 1.44;
+    color: #000;
+    margin: 0 0 10px;
+}
+
+.jumbo h2 {
+    font-weight: 300;
+    font-size: 24px;
+    letter-spacing: -.1px;
+    line-height: 1.5;
+    color: #888;
+    margin: 0 0 10px;
+}
+
+.jumbo button {
+    margin-top: 20px;
+}
+
+.btn-primary {
+    border-color: #286efa;
+    background: #286efa;
+    color: #fff;
+}
+
+.btn-hollow {
+    background: #fff;
+    color: #286efa;
+    border-color: #286efa;
+}
+
+.card a.card-link {
+    font-size: 14px;
+    letter-spacing: .15px;
+}
+
+.card a.card-link i {
+    margin-left: 0.25em;
+}
+
+.x h1 {
+    text-align: center;
+    margin-left: 50px;
+
+
+}
+
+.y {
+    padding: 50px;
+    background: #f3f3f3;
+    border-radius: 8px;
+}
+
+footer ul li {
+    margin: 14px 15px 10px 15px;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+
+}
+
+footer ul li>a {
+    color: inherit;
+
+}
+
+footer {
+    color: #888;
+}
+
+.fb {
+    color: #286efa;
+}
+
+.cb {
+    color: #286efa;
+}
+
+.i_a, .i_b, .i_c {
+    padding: 20px;
+}
+
+.i_a img, .i_b img, .i_c img{
+    height: auto;
+    margin-bottom: 10px;
+}
